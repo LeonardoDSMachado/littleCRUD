@@ -23,7 +23,7 @@ Cada item possui as seguintes propriedades:
 ## 🚀 Como testar o projeto localmente
 
 1°
-git clone https://github.com/seu-usuario/littleCRUD.git
+git clone https://github.com/LeonardoDSMachado/littleCRUD.git
 
 2°
 cd littleCRUD
