@@ -37,6 +37,9 @@ Executar o programa via IDE ou terminal dando um dotnet run
 ## 🧠 Meus aprendizados
 
 **A estruturação de um CRUD completo em C#**
+
 **Manipulação de listas e objetos**
+
 **Organização do código com classes e métodos separados**
+
 **Boas práticas de programação e clareza de código**
